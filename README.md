@@ -1,1 +1,3 @@
-# NLP-DL-02-BrandMeasure
+# NLP_project
+
+## python==3.7.16
